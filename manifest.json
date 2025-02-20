@@ -1,0 +1,24 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "北京师范大学南山附属学校",
+    "ClassPlanSource": {
+        "Value": "https://raw.kkgithub.com/WilsonHuangDev/bsdnsxx-classisland-mgmt-cfg/main/{id}/classplans.json",
+        "Version": 2080212000
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.kkgithub.com/WilsonHuangDev/bsdnsxx-classisland-mgmt-cfg/main/{id}/timelayouts.json",
+        "Version": 2080212000
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.kkgithub.com/WilsonHuangDev/bsdnsxx-classisland-mgmt-cfg/main/subjects.json",
+        "Version": 2080212000
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.kkgithub.com/WilsonHuangDev/bsdnsxx-classisland-mgmt-cfg/main/settings.json",
+        "Version": 2080212000
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/Suixiuliang/classisland-bsd95/refs/heads/main/policy.json",
+        "Version": 2080212000
+    }
+}
